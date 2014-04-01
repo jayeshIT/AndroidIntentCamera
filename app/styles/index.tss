@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor:"white",
+	layout:'vertical'
+},
+".button": {
+	width: 80,
+	height: 40,
+	top:10,
+	left : 0
+}
